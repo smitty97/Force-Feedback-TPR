@@ -11,6 +11,8 @@ Some of the parts used:
 
 1 - 86BLF03 x1 (or 86BLF04 x1) DIY Kit from https://vpforcecontrols.com 
 
+1 - https://www.amazon.com/gp/product/B013ETVO12 24V 350W power supply
+
 2 - https://www.amazon.com/gp/product/B077K7KNX9 pack of 2
 
 2 - https://www.amazon.com/gp/product/B000COCQ06 pack of 2
@@ -50,9 +52,10 @@ Assembly steps:
 10. Center up the motor to your sharpie marks.  tighten/loosen the cable stops so that the arm is level with the motor centered.  alternate from side to side, making it tighter each time.  make sure the wrap on the pulley isn't crossing over itself.
 11. fully tighten the cable stops with a wrench.  then, raise each vented bolt to really tension the cable.
 12. FFB unit is done!  Now just mount it to the back of the TPR. transfer over the link bushings and pins.
-13. Install VPForce Configurator and the WIP version of VPForce TelemFFB.
-14. enjoy!
-15. These instructions and models provided as-is.   DIY!
+13. Print the USB Box & Lid, mount the kit USB board inside and wire up.
+15. Install VPForce Configurator and the WIP version of VPForce TelemFFB.
+16. enjoy!
+17. These instructions and models provided as-is.   DIY!
 
 
 First prototype, some parts may differ from supplied files:
