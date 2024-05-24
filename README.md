@@ -23,7 +23,7 @@ Some of the parts used:
 
 2 - https://www.mcmaster.com/catalog/2705T132 each
 
-2 - https://www.mcmaster.com/catalog/92510A765 each
+4 - https://www.mcmaster.com/catalog/92510A765 each
 
 4 - https://www.mcmaster.com/8920N36/  each
 
@@ -53,14 +53,15 @@ Assembly steps:
 13. enjoy!
 14. These instructions and models provided as-is.   DIY!
 
+
 First prototype, some parts may differ from supplied files:
-![1D464272-044C-4B40-AFC9-990CB6C278E8_1_105_c](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/db9525af-28cf-4a65-a0e0-91cf0f62439e)
 
-![2DD2584E-43EE-41F7-B42F-8DF5CA90A8EA_1_105_c](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/74df9ff6-60dd-4ba4-932f-fed4dc1a5e85)
+<img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/db9525af-28cf-4a65-a0e0-91cf0f62439e" width = 300>
+<img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/74df9ff6-60dd-4ba4-932f-fed4dc1a5e85" width = 300>
+<img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/cf5e309d-c389-4c05-a039-87ddcc653ea5" width = 300>
 
-![13CA4E0D-1B21-4798-84A0-A69CA37FE59D_1_105_c](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/cf5e309d-c389-4c05-a039-87ddcc653ea5)
 
 3D Printed version by @Toddimus:
-![IMG_0493](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/aa93625c-261f-4fba-86a6-4d0d64125733)
 
-![IMG_0496](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/71240184-52b8-4f3f-b80e-07c622cb8843)
+<img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/aa93625c-261f-4fba-86a6-4d0d64125733" width = 300>
+<img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/71240184-52b8-4f3f-b80e-07c622cb8843" width = 300>
