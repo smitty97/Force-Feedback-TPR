@@ -51,8 +51,9 @@ Assembly steps:
 9. This is the tricky part- the cable.  It's thick, and resistant to bends, and might take 3 or 4 hands to get it wrapped right.  also clip off the ball on the end but be careful not to let it unravel too much.  pass it thru the hole in the motor pulley so half remains on each side.  without letting the pulley spin (power it up or use a allen key to stop it)  wind 2 wraps toward the motor and then to a pulley and up thru the vented arm bolt.  put on a cable stop to keep it there.  careful!  letting go at any time and it all unwinds.  do the same on the other side, but go away from the motor.  see pics on how it should look
 10. Center up the motor to your sharpie marks.  tighten/loosen the cable stops so that the arm is level with the motor centered.  alternate from side to side, making it tighter each time.  make sure the wrap on the pulley isn't crossing over itself.
 11. fully tighten the cable stops with a wrench.  then, raise each vented bolt to really tension the cable.  It should almost guitar-string-tight.
-12. FFB unit is done!  Now just mount it to the back of the TPR. transfer over the link bushings and pins.
-13. Print the USB Box & Lid, mount the kit USB board inside and wire up.
+12. FFB unit is done!  Now just mount it to the back of the TPR. It'll be best to use a ball-end hex wrench to get to some of the bolts, thru the holes in the front plate.
+13. Transfer over the link bushings and pins from the original teeter arm.
+14. Print the USB Box & Lid, mount the kit USB board inside and wire up.
 15. Install VPForce Configurator and the WIP version of VPForce TelemFFB.
 16. enjoy!
 17. These instructions and models provided as-is.   DIY!
