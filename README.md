@@ -61,6 +61,15 @@ First prototype, some parts may differ from supplied files:
 <img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/cf5e309d-c389-4c05-a039-87ddcc653ea5" width = 300>
 
 
+Other builds:
+
+by @SR-F_Winger_[73]_David:
+
+<img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/8d635c23-735f-4297-a3a8-3aac700c187c" width = 300>
+<img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/5be57ec9-2916-40ad-b252-7ea8726b3d4e" width = 300>
+<img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/c034b5df-afaa-4f51-9d5b-bbd426f2cab0" width = 300>
+
+
 3D Printed version by @Toddimus:
 
 <img src="https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/aa93625c-261f-4fba-86a6-4d0d64125733" width = 300>
