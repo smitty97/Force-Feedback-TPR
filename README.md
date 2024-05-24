@@ -50,8 +50,9 @@ Assembly steps:
 10. Center up the motor to your sharpie marks.  tighten/loosen the cable stops so that the arm is level with the motor centered.  alternate from side to side, making it tighter each time.  make sure the wrap on the pulley isn't crossing over itself.
 11. fully tighten the cable stops with a wrench.  then, raise each vented bolt to really tension the cable.
 12. FFB unit is done!  Now just mount it to the back of the TPR. transfer over the link bushings and pins.
-13. enjoy!
-14. These instructions and models provided as-is.   DIY!
+13. Install VPForce Configurator and the WIP version of VPForce TelemFFB.
+14. enjoy!
+15. These instructions and models provided as-is.   DIY!
 
 
 First prototype, some parts may differ from supplied files:
