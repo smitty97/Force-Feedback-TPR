@@ -3,7 +3,7 @@ VPForce FFB Mod for Thrustmaster TPR Rudder Pedals
 
 ![A62D62CD-0B10-464C-B153-7518431104F6_1_105_c](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/db39829a-41ea-4352-9266-1c52bc6f9f60)
 
-These parts are for converting your Thrustmaster TPR pedals with a 86BLF03 kit from https://vpforcecontrols.com.  The geometry of the cable run is set up so that it will not go slack in any position.  Now, i made my parts out of aluminum and did the tensioning a bit different but have redesigned them slightly so that they can be 3d printed as well.  It might work, You'll just have to try it.  If you can make them with aluminum even better.  I did have at least the teeter-totter arm 3d printed to test the design and it held up fine for 3 weeks.
+These parts are for converting your Thrustmaster TPR pedals with a 86BLF03 kit from https://vpforcecontrols.com.  The mod does not permanently change anything on the pedals, there is no cutting, and you could revert it back to original stock if desired.  The geometry of the cable run is set up so that it will not go slack in any position.  Now, i made my parts out of aluminum and did the tensioning a bit different but have redesigned them slightly so that they can be 3d printed as well.  It might work, You'll just have to try it.  If you can make them with aluminum even better.  I did have at least the teeter-totter arm 3d printed to test the design and it held up fine for 3 weeks.
 
 This will take some DIY skills, it's not print-and-be-done, but it's close.
 
@@ -53,9 +53,14 @@ Assembly steps:
 13. enjoy!
 14. These instructions and models provided as-is.   DIY!
 
+First prototype, some parts may differ from supplied files:
 ![1D464272-044C-4B40-AFC9-990CB6C278E8_1_105_c](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/db9525af-28cf-4a65-a0e0-91cf0f62439e)
 
 ![2DD2584E-43EE-41F7-B42F-8DF5CA90A8EA_1_105_c](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/74df9ff6-60dd-4ba4-932f-fed4dc1a5e85)
 
 ![13CA4E0D-1B21-4798-84A0-A69CA37FE59D_1_105_c](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/cf5e309d-c389-4c05-a039-87ddcc653ea5)
 
+3D Printed version by @Toddimus:
+![IMG_0493](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/aa93625c-261f-4fba-86a6-4d0d64125733)
+
+![IMG_0496](https://github.com/smitty97/Force-Feedback-TPR/assets/5961071/71240184-52b8-4f3f-b80e-07c622cb8843)
