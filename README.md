@@ -58,6 +58,7 @@ Assembly steps:
 16. enjoy!
 17. These instructions and models provided as-is.   DIY!
 
+Also check out the load cell brake mod! https://github.com/smitty97/Load-Cell-Brakes-TPR
 
 First prototype, some parts may differ from supplied files:
 
