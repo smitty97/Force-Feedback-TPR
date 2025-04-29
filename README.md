@@ -17,8 +17,6 @@ Some of the parts used:
 
 2 - https://www.amazon.com/gp/product/B000COCQ06 pack of 2
 
-1 - https://www.amazon.com/gp/product/B079J6YYPC each
-
 2 - https://www.mcmaster.com/catalog/90220A130 each
 
 4 - https://www.mcmaster.com/catalog/91920A710 each
@@ -39,6 +37,8 @@ Some of the parts used:
 
 2 - https://www.mcmaster.com/94645A205/ (box of 100)
 
+1 - https://www.amazon.com/USAMILY-Stainless-Aluminum-Sleeves-Thimbles/dp/B0CKPHJG3F 
+
 Assembly steps:
 1. Remove the spring system from the rear of the TPR's. There are 4 M5 flatheads holding it onto the back,  Remove the bottom end of the links to the original teeter arm (save the pins, plastic bushings, e-clips)
 2. Open up the electronics area on the back, remove the wire going to the teeter hall sensor
@@ -49,6 +49,7 @@ Assembly steps:
 7. Add the pulleys and spacers to each side
 8. Screw in the bolts with the vent hole all the way down into the teeter arm.  we will be raising them up to tension the cable later.  If using a 3d print, you might want to also use some thin 1/4-20 nuts so the thread doesnt strip out.
 9. This is the tricky part- the cable.  It's thick, and resistant to bends, and might take 3 or 4 hands to get it wrapped right.  also clip off the ball on the end but be careful not to let it unravel too much.  pass it thru the hole in the motor pulley so half remains on each side.  without letting the pulley spin (power it up or use a allen key to stop it)  wind 2 wraps toward the motor and then to a pulley and up thru the vented arm bolt.  put on a cable stop to keep it there.  careful!  letting go at any time and it all unwinds.  do the same on the other side, but go away from the motor.  see pics on how it should look
+   *****  NOTE- new 304 1/16 7x7 wire rope item B0CKPHJG3F is much easier to work with.  the brake cable seems to shred itself over time.
 10. Center up the motor to your sharpie marks.  tighten/loosen the cable stops so that the arm is level with the motor centered.  alternate from side to side, making it tighter each time.  make sure the wrap on the pulley isn't crossing over itself.
 11. fully tighten the cable stops with a wrench.  then, raise each vented bolt to really tension the cable.  It should almost guitar-string-tight.
 12. FFB unit is done!  Now just mount it to the back of the TPR. It'll be best to use a ball-end hex wrench to get to some of the bolts, thru the holes in the front plate.
